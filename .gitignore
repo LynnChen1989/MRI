@@ -19,3 +19,4 @@ package-lock.json
 yarn.lock
 db.sqlite3
 conf/__pycache__/
+web/node_modules/

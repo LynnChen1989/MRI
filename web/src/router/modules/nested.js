@@ -6,7 +6,7 @@ const nestedRouter = {
   path: '/nested',
   component: Layout,
   redirect: '/nested/menu1/menu1-1',
-  name: 'Nested',
+  name: '嵌套路由',
   meta: {
     title: 'Nested Routes',
     icon: 'nested'
